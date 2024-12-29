@@ -1,0 +1,78 @@
+.login{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: gray;
+}
+
+.login>form{
+    border-radius: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 50%;
+    width: 50%;
+    box-shadow: 5px 3px 5px black;
+
+    background-color: lightblue ;
+}
+
+.login>form>input{
+    height: 8%;
+    box-shadow: 4px 3px 5px black;
+    outline-width: 0px;
+    width: 50%;
+    border-radius: 20px;
+    padding-left: 20px;
+    border: none;
+}
+.login>form>button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    border: none;
+    box-shadow: 5px 3px 5px black;
+
+    margin-top: 20px;
+    height: 6%;
+    width: 20%;
+    background-color: wheat;
+}
+.login>form>button:hover{
+    cursor: pointer;
+}
+
+.login>button{
+    display: flex;
+    box-shadow: 5px 3px 5px black;
+
+    margin:2%;
+    background-color: lightblue;
+    border: none;
+    box-shadow: 5px 5px 5px;
+    justify-content: center;
+    align-items: center;
+    height: 10%;
+    width: 15%;
+}
+.login>button:hover{
+    transition-delay: 100ms;
+    /* color: white; */
+    text-transform:uppercase;
+    cursor: pointer;
+    box-shadow: 10px 10px 10px black;
+}
+
+
+/* .login>form>div>a{ */
+    /* padding-top: 1%; */
+    /* padding: 30%;
+    text-decoration: none;
+    color: grey; */
+    /* display: block; */
+    /* height: 100%;
+    width:100%;
+} */
