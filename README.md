@@ -53,7 +53,7 @@ Run the app:
 
 ## Authors
 
-- [@VartulPandey](https://github.com/VartulPandey1/DigitalThrifting)
+- [@VartulPandey](https://github.com/VartulPandey1/Chatting-frontEnd)
 
 
 ## Acknowledgements
